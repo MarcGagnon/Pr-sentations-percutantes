@@ -1,2 +1,2 @@
-# Pr-sentations-percutantes
+# Présentations percutantes
 Notes de cours en markdown
